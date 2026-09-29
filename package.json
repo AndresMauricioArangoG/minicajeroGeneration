@@ -1,0 +1,15 @@
+{
+  "name": "minicajerogeneration",
+  "version": "1.0.0",
+  "description": "Andres Mauricio Arango\r Juan Camilo Bohorquez\r Mauro Infante",
+  "main": "minicajero.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
