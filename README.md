@@ -1,4 +1,4 @@
 # minicajero grupo 
-Andres Mauricio Arango
-Juan Camilo Bohorquez
+Andres Mauricio Arango,
+Juan Camilo Bohorquez,
 Mauro Infante
